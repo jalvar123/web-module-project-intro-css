@@ -33,13 +33,14 @@ border:1px solid grey;
 }
 h1 {
     font-family: 'Chelsea Market', cursive;
-    font-size: 300px;
+    font-size: 100%;
 }
 body {
     font-family: 'Roboto Mono', monospace;
 }
 .sentences {
     background-color: #DDB9A3;
+    text-align:center;
 }
 footer {
     background-color:#F9E7DC
@@ -47,3 +48,11 @@ footer {
 span {
     font-weight:bold;
 }
+#header-img {
+    border-radius:50%;
+    margin:0 10px;
+    display:inline-block;
+    height:120px;
+    width:120px;
+}
+
