@@ -28,3 +28,16 @@ border:1px solid grey;
 .Learn {
     background-color: #5ED3EB;
 } 
+.Involve {
+    background-color: #FFCD69;
+}
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 300px;
+}
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+.sentences {
+    background-color:red;
+}
