@@ -39,5 +39,11 @@ body {
     font-family: 'Roboto Mono', monospace;
 }
 .sentences {
-    background-color:red;
+    background-color: #DDB9A3;
+}
+footer {
+    background-color:#F9E7DC
+}
+span {
+    font-weight:bold;
 }
