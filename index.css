@@ -119,7 +119,8 @@ p + p {
     margin-right:35%;
 }
 footer img{
+    display: inline-block;
+    object-fit: cover;
     width: 100%;
-    height: 100%;
-    margin:auto;
+    height: 30vh; 
 }
