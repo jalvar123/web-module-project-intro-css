@@ -1,0 +1,126 @@
+html, body, div, span, applet, object, iframe,  
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,  
+a, abbr, acronym, address, big, cite, code,  
+del, dfn, em, img, ins, kbd, q, s, samp,  
+small, strike, strong, sub, sup, tt, var,  
+b, u, i, center,  
+dl, dt, dd, ol, ul, li,  
+fieldset, form, label, legend,  
+table, caption, tbody, tfoot, thead, tr, th, td,  
+article, aside, canvas, details, embed,  
+figure, figcaption, footer, header, hgroup,  
+menu, nav, output, ruby, section, summary,  
+time, mark, audio, video {  
+margin: 0;  
+padding: 0;  
+border: 0;  
+font-size: 100%;  
+font: inherit;  
+vertical-align: baseline;  
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* my project*/
+html{
+    width:80%;
+    margin:0 auto;
+}
+.button {
+    padding: 1.62%;
+    border-radius:15%;
+    display:inline-block;
+    margin:1% auto;
+    margin-bottom:20px;
+    margin-left:15%;
+    color: white;
+}
+.Plan {
+   background-color: #FF764E; 
+}
+.Learn {
+    background-color: #5ED3EB;
+} 
+.Involve {
+    background-color: #FFCD69;
+}
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 350%;
+}
+h2 {
+    padding:0.78%
+}
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+.sentences {
+    background-color: #DDB9A3;
+    text-align:center;
+    padding:1%;
+    position: relative;
+    margin:2% 2% 2% 2%;
+    color: white;
+}
+footer {
+    background-color:#F9E7DC
+}
+span {
+    font-weight:bold;
+}
+.intro img {
+    display:inline-block;
+    border-radius:50%;
+    margin:0 auto;
+    margin-left: 1%;
+    height:10%;
+    width:15%; 
+}
+.titles {
+    display:inline-block;
+    text-align:center;
+    position: absolute;
+    right:15%;
+    padding: 4%;
+    letter-spacing:2;
+    margin:0 auto;
+}
+p + p {
+    margin-top: 10px;
+}
+.images img {
+    width: 13%;
+    margin-left: 43%;
+    margin-right: auto;
+}
+.Advisory{
+    padding:2.5%;
+    margin-left: 35%;
+    margin-right:35%;
+}
+footer img{
+    display: inline-block;
+    object-fit: cover;
+    width: 100%;
+    height: 30vh; 
+}
